@@ -1,0 +1,4 @@
+1. Open 2 Terminals and locate folder with rest api by cd FOLDERPATH
+2. "C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" [1st Terminal]
+3. nodemon index [2nd Terminal]
+4. Test Api s by Postman
